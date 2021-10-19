@@ -54,7 +54,7 @@ nametitles=['age','job','marital','education','default','balance','housing','loa
 trainData = pd.read_csv('/Users/u1368460/Documents/Machine Learning/ASSIGNMENTS/ASSIGNMENT 2/bank/train.csv', names=nametitles)
 testData=pd.read_csv('/Users/u1368460/Documents/Machine Learning/ASSIGNMENTS/ASSIGNMENT 2/bank/test.csv', names=nametitles)
 
-q=1000
+q=500
 bag = 50
 k= {'NO': 0 , 'YES': 1}
 i = 10
