@@ -73,8 +73,3 @@ for j in range(i):
     print('Predicting..')
     bag1,tree1 = makePrediction(bags,testData,k)
     lgr(bag1,tree1,j)
-
-
-
-
-#REST IS LEFT OUT
