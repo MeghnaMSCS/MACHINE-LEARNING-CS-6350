@@ -2,7 +2,7 @@ import numpy as np
 from HW1_ID3Algorithm import DT, ID3_algo
 
 class boost:
-    def __init__(self,data,tree,depth=1,k=None):
+    def __init__(self,data,tree,depth=2,k=None):
         self.data = data
         self.labels=np.array(train.iloc[:,-1])
         self.DTinit=np.ones((len(data),))/len(data)
