@@ -1,0 +1,9 @@
+Dear Instructors/TAs,
+
+Two .py files are uploaded for Mid term Kaggle report,
+
+1. ILP_DT.py - Has Scikit Learn based Decision Tree model for solving Income Level Prediction. It needs two inputs - 1) trainData - A CSV file path
+2) testData - A CSV file path
+
+2. ILP_RF.py - Has Scikit Learn based Random Forest model for solving Income Level Prediction. It needs two inputs - 1) trainData - A CSV file path
+2) testData - A CSV file path
