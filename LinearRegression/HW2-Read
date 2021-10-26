@@ -1,0 +1,7 @@
+Dear Instructors/TAs,
+
+This folder contains 2 files for HW2,
+
+1. HW2_Linearregression.py - Has both Batch and Stochastic method. DOesn't need any input for running as standalone 
+
+2. HW2_Concrete.py - Here Concrete problem is attempted to be solved. This needs two CSV inputs, one for trainData and other for testData.
