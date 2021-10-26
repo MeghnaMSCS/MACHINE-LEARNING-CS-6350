@@ -1,0 +1,14 @@
+Dear Intructors/TAs
+
+The folder contains 4 files for HW2,
+
+1. HW1_ID3Algorithm.py - ID3 algorithm, same as the one submitted for HW1. All other 3 algorithms for Bagging,boosting,Random Forests, this ID3 is called
+
+2. HW2_Bagging.py - Has Bagging algorithm
+
+3. HW2_Boosting.py - Has Adaboost algorithm
+
+4. HW2_Randomforest.py - Has Random forest algorithm. The Bank problem is attempted here, which runs into error actually, so it is not proper.
+
+
+
