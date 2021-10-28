@@ -1,0 +1,11 @@
+Dear Instructors/TAs,
+
+There are 3 files for HW1
+
+1. HW1_ID3Algorithm.py - Has ID3 algorithm. It can just be run, without having to give any input
+
+2. HW1_Car.py - Solving the Car problem by calling HW1_ID3Algorithm. Here it needs 3 input files, data_names(should be a txt file input to read header names)
+,trainData (needs a CSV file to read training data),testData(needs a CSV file to read testing data)
+
+3. HW1_Bank.py - Solving the Bank problem by calling HW1_ID3Algorithm. Here it needs 2 input files:trainData (needs a CSV file to read training data),
+testData(needs a CSV file to read testing data)
