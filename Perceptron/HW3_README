@@ -1,1 +1,14 @@
+Dear TAs,
 
+There are two .py files in this folder
+
+1. HW3_Perceptron.py - Contains Standard,Voted and Averaged variants of Perceptron. There is no input required for this file to run, neither does it have any outputs.
+                       This file is only called by other files
+                       
+2. HW3_Banknote.py - Banknote dataset problem is solved by making use of functions defined in HW3_Perceptron.py.
+                      There are two input .csv files that has to be given,
+                      trainData = Training datasets .csv file path should be given
+                      testData = Testing datasets .csv file path should be given
+                      The variable 'output' will print Weight vectors and Error in prediction, for all 3 variants of Perceptron.
+                      
+                      
