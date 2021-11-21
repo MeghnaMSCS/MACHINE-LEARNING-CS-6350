@@ -1,1 +1,14 @@
 
+Dear TAs and Instructor,
+
+Q2) There are two files for this question 
+1)HW4_SVM - Has necessary functions. Doesn't need any input to run
+2) HW4_SVM_banknote - Runs to solve bank-note problem. Needs .csv files for variable trainData = training data .csv path and 
+variable testData = testing data .csv path. 
+Output - Training and Testing errors for both the schedules in the questions, with learned weights and bias
+
+Q3) There are two files for this question
+1) HW4_Dual - Has necessary functions. Doesn't need any input to run
+2) HW4_DUAL_banknote - Runs to solve bank-note problem. Needs .csv files for variable trainData = training data .csv path and 
+variable testData = testing data .csv path
+Output - Gives Training,Testing errors,number of support vectors for different values of gamma
