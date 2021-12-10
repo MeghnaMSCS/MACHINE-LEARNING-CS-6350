@@ -1,0 +1,10 @@
+Dear Instructors/TAs,
+
+There are 2 .py files for this HW - 1) HW5_NN.py 2)HW5_Banknote.py
+
+HW5_NN.PY - Has the necessary functions and classes for implementation of Backpropagation. There is no input required to run this file
+
+HW5_Banknote.py - This is the solution for Q2b. It needs training (variable name = trainData) and testing (variable name = testData) .csv file paths. 
+                  The output is in the form of print outputs and also plots
+
+
