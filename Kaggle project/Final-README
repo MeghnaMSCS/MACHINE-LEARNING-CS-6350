@@ -1,0 +1,11 @@
+Dear instructors and TAs,
+
+There are 3 files to consider in the Final submission.
+
+1)ILP_Perceptron.py - This is a standalone .py file, which only needs .csv file path of training data and testing data to run. 
+                      Predicted labels are written in .csv file
+                      
+2)ILP_HW1_ID3.py - This .py file uses functions and classes written in HW1_ID3Algorithm.py to work on the Kaggle dataset. Input .csv file paths for training data 
+                   and testing data has to be provided.
+                   
+3)HW1_ID3Algorithm.py - This is same as HW1 submission for ID3 algorithm
